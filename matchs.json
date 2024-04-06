@@ -1,1 +1,18 @@
-matchs.jos
+[
+  {
+    "descricao": "Eliminatórias Copa 2026"
+    "local": {
+      "nome": "Mineirão",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "TODO" 
+    },
+    "visitante": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "TODO" 
+  }
+]
